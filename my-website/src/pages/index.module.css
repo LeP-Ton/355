@@ -21,3 +21,14 @@
   align-items: center;
   justify-content: center;
 }
+
+.heroBanner{
+  background: url(https://gd-hbimg.huaban.com/c95b190b3e75e95e57a57584428f788bbe2da83e37254-yDaRfC);
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+}
+
+.heroTitle,.heroSubtitle{
+  color:#000000a8
+}

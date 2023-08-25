@@ -1,3 +1,4 @@
+
 .features {
   display: flex;
   align-items: center;
@@ -8,4 +9,37 @@
 .featureSvg {
   height: 200px;
   width: 200px;
+  
 }
+
+.text{
+  text-align: left;
+}
+
+.doodleWrapper{
+  display: inline-block;
+  position: relative;
+  .imgWrapper{
+    position: absolute;
+    height: calc(100% - 70px);
+    width: calc(100% - 70px);
+    top: 35px;
+    left: 35px;
+    background-position: center;
+    background-size: 220%;
+  }
+  .limit{   
+    background-image: url(https://gd-hbimg.huaban.com/a1c1c143228590b92a80c0f114490f900b81546d3ce81-Vbt3yt);   
+  }
+  .score{
+    background-image: url(https://gd-hbimg.huaban.com/c95b190b3e75e95e57a57584428f788bbe2da83e37254-yDaRfC);   
+
+  }
+  .speed{
+    background-image: url(https://gd-hbimg.huaban.com/a3043fb44bbb3a7b1d9e36173cb32982e0005f733805e-ioBOXW);   
+
+  }
+}
+
+
+

@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: '真三国无双5',
+  tagline: '355从入门到精通',
+  favicon: 'https://gd-hbimg.huaban.com/860a847ee49e16ef019f8132478a23cc5252a42217af8-BxeRWl',
 
   // Set the production url of your site here
   url: 'https://lep-ton.github.io/',
@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://gd-hbimg.huaban.com/860a847ee49e16ef019f8132478a23cc5252a42217af8-BxeRWl',
       navbar: {
-        title: 'My Site',
+        title: '首页',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'https://gd-hbimg.huaban.com/860a847ee49e16ef019f8132478a23cc5252a42217af8-BxeRWl',
         },
         items: [
           {
@@ -100,17 +100,17 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '真三国无双五入门与进阶指引',
+                href: 'https://www.bilibili.com/opus/741606355323846696?spm_id_from=333.999.list.card_opus.click',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/docusaurus',
+              // },
+              // {
+              //   label: 'Twitter',
+              //   href: 'https://twitter.com/docusaurus',
+              // },
             ],
           },
           {
